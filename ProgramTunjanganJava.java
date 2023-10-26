@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama : Zalfa Rosiyah Riski 
  Nim : 22205011
  Prodi : Teknik Informatika 
+ Deskripsi : Membuat program tunjangan karyawan yang sudah (menikah/belum) dengan menginputkan nominal gaji pokok
  */
 public class ProgramTunjanganJava {
 
